@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://imreplay.github.io/test/test/Sample-post/</loc>
+<lastmod>2018-07-01T04:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://imreplay.github.io/test/about/</loc>
+<lastmod>2018-07-01T16:04:24+00:00</lastmod>
+</url>
+<url>
+<loc>https://imreplay.github.io/test/categories/</loc>
+</url>
+<url>
+<loc>https://imreplay.github.io/test/</loc>
+</url>
+<url>
+<loc>https://imreplay.github.io/test/tags/</loc>
+</url>
+</urlset>
