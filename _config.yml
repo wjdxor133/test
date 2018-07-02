@@ -290,7 +290,7 @@ defaults:
 # or "master" otherwise
 safe: False
 lsi: False
-username: imrepaly #Github username
+username: imreplay #Github username
 repo: test #Github repo
 branch: master
 relative_source: ../test/
